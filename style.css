@@ -36,7 +36,15 @@ nav ul li{
 }
 
 
+.btngrid2 button:hover{
+    cursor: pointer;
+    color: #336899;
+}
 
+.btn button:hover{
+    cursor: pointer;
+    color: #336899;
+}
 
 .btn button{
     color: white;
@@ -370,7 +378,7 @@ footer{
         nav{
             flex-direction: column;
             text-align: center;
-            width: 96vw;
+            width: 100%;
             margin: 0;
         }
 
@@ -381,7 +389,7 @@ footer{
         nav ul{
             display: block;
             background-color: purple;
-            width: 96vw;
+            width: 100%;
 
         }
 
